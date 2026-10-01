@@ -35,3 +35,36 @@ The dataset is classified as healthy, so the results represent ATP7B expression 
 # Screenshot 1 — Selected Dataset
 
 ![Screenshot 1 - Human Liver Dataset](Screenshots/01_dataset.png)
+
+# 3. Understanding the Cell Map
+
+**a. What type of visualization is being shown?**
+
+The Human Liver dataset displays a **t-SNE (t-distributed stochastic neighbor embedding) projection**. This visualization represents relationships among cells based on their transcriptomic profiles.
+
+**b. What Does One Dot Represent?**
+
+Each dot represents **one individual cell** profiled using single-cell RNA sequencing. Cells located near one another generally have more similar overall gene-expression profiles than cells positioned farther apart.
+
+**c. What do the clusters represent in this particular dataset?**
+
+The clusters represent groups of cells with similar transcriptomic profiles and correspond to different cell types or cellular populations in the human liver.
+
+**d. List at least three cell-type or cluster labels visible in the dataset.**
+
+- Hepatocyte
+- Inflammatory Macs
+- Non-inflammatory Macs
+- LSEC 1
+- Portal endothelial
+- Cholangiocyte
+- Stellate
+- B cell
+- Plasma
+- NK-like
+
+  # Screenshot — Cell Map
+
+The screenshot below shows the t-SNE cell map of the Human Liver dataset with the annotated cell-type clusters.
+
+![Human Liver Cell Map](screenshots/03_cell_map.png)
