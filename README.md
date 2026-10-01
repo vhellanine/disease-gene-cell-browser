@@ -34,4 +34,4 @@ The dataset is classified as healthy, so the results represent ATP7B expression 
 
 # Screenshot 1 — Selected Dataset
 
-![Screenshot 1 - Human Liver Dataset](screenshots/01_dataset.png)
+![Screenshot 1 - Human Liver Dataset](Screenshots/01_dataset.png)
