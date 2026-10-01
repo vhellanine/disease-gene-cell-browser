@@ -67,4 +67,4 @@ The clusters represent groups of cells with similar transcriptomic profiles and 
 
 The screenshot below shows the t-SNE cell map of the Human Liver dataset with the annotated cell-type clusters.
 
-![Human Liver Cell Map](screenshots/03_cell_map.png)
+![Human Liver Cell Map](Screenshots/02_cell_map.png)
