@@ -92,4 +92,4 @@ ATP7B expression in the selected Human Liver dataset is low/undetected in most c
 
 # Screenshot 2 — ATP7B Gene Expression Map
 
-![Screenshot 2 - ATP7B Gene Expression](screenshots/02_gene_expression.png)
+![Screenshot 2 - ATP7B Gene Expression](Screenshots/03_gene_expression.png)
