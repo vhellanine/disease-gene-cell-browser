@@ -90,9 +90,9 @@ Little or no detectable expression is observed across most other cell population
 
 ATP7B expression in the selected Human Liver dataset is low/undetected in most cells, with detectable expression appearing mainly within the hepatocyte cluster. The expression pattern is therefore not widespread across the entire cell map. This observation is based only on the selected healthy Human Liver single-cell dataset and does not indicate that ATP7B is absent from other tissues or cell types.
 
-# Screenshot 3 — ATP7B Gene Expression Map
+# Screenshot 3A — ATP7B Gene Expression Map
 
-![Screenshot 2 - ATP7B Gene Expression](Screenshots/03_gene_expression.png)
+![Screenshot 2 - ATP7B Gene Expression](Screenshots/03A_gene_expression.png)
 
 # 5. Cell Types and Clusters Expressing ATP7B
 **ATP7B Expression by Cell Type**
