@@ -90,6 +90,33 @@ Little or no detectable expression is observed across most other cell population
 
 ATP7B expression in the selected Human Liver dataset is low/undetected in most cells, with detectable expression appearing mainly within the hepatocyte cluster. The expression pattern is therefore not widespread across the entire cell map. This observation is based only on the selected healthy Human Liver single-cell dataset and does not indicate that ATP7B is absent from other tissues or cell types.
 
-# Screenshot 2 — ATP7B Gene Expression Map
+# Screenshot 3 — ATP7B Gene Expression Map
 
 ![Screenshot 2 - ATP7B Gene Expression](Screenshots/03_gene_expression.png)
+
+# 5. Cell Types and Clusters Expressing ATP7B
+**ATP7B Expression by Cell Type**
+
+**Strongest visible expression** 
+Hepatocyte
+
+**Another cell type with detectable expression** 
+Inflammatory macrophages (Inflammatory Macs)
+
+**Relatively low/undetected expression** 
+Cholangiocytes and most other cell populations
+
+**Overall expression pattern** 
+Low/mostly undetected and relatively cell-type restricted
+
+# Interpretation
+
+ATP7B expression is most visibly concentrated in the **hepatocyte cluster**, where numerous cells show detectable expression at varying levels. A smaller number of cells with detectable ATP7B expression are also observed in the **inflammatory macrophage (Inflammatory Macs)** cluster, although the signal is less prominent than in hepatocytes.
+
+Overall, ATP7B expression appears **low or undetected in most cells and relatively restricted to specific cell populations**, particularly hepatocytes. This interpretation is based only on the selected **healthy Human Liver dataset** and should not be generalized to other tissues, datasets, or disease conditions.
+
+# Screenshot 3 — ATP7B Expression Across Cell Types
+
+The screenshot below shows the ATP7B expression map together with the annotated cell-type clusters. The strongest visible concentration of ATP7B-expressing cells occurs in the hepatocyte population.
+
+![Screenshot 3 - ATP7B Expression Across Cell Types](screenshots/03_cell_types.png)
