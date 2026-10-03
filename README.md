@@ -139,4 +139,4 @@ The expression plot supports the observation from the cell map that **ATP7B expr
 
 The screenshot below shows the ATP7B expression distribution in the selected hepatocyte cells compared with the other cells in the Human Liver dataset.
 
-![Screenshot 4 - ATP7B Expression Violin Plot](screenshots/04_expression_plot.png)
+![Screenshot 4 - ATP7B Expression Violin Plot](Screenshots/04_expression_plot.png)
