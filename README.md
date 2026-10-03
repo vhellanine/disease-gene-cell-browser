@@ -184,3 +184,31 @@ The screenshot below shows the UCSC Cell Browser marker-gene table for the Hepat
 
 **e. What does this comparison teach you about the difference between a disease-associated gene and a cell-type marker gene?**  
 The comparison shows that a **disease-associated gene does not necessarily have to be a cell-type marker**. ATP7B is associated with Wilson disease but showed a relatively restricted expression pattern in this dataset, whereas APOC3, identified as a hepatocyte marker, showed detectable expression across multiple cell populations. Therefore, disease association and cell-type-specific expression are different biological characteristics.
+
+# 9. Connection to Genome Browser and ClinVar
+
+# Chromosome Location → Gene Structure → Disease-Associated Variant → Gene Expression → Cell Type/Tissue
+
+**1. On which chromosome is your assigned gene located?**
+
+The **ATP7B gene is located on chromosome 13 (13q14.3)**. In the GRCh38/hg38 assembly, the gene spans approximately **chr13:51,932,669–52,011,450** and is located on the negative (−) DNA strand.
+
+**2. What disease-associated variant did you examine previously?**
+
+The disease-associated variant examined in the previous UCSC Genome Browser and NCBI ClinVar activity was:
+
+**NM_000053.4(ATP7B):c.51+4A>T**
+
+The variant has **ClinVar Variation ID 312401** and is located at **chr13:52,011,283 (GRCh38)**. It was associated with **Wilson disease** and classified as **Pathogenic/Likely pathogenic** in the previous activity. The variant is an intronic variant near an exon–intron boundary and may affect RNA splicing. 
+
+**3. In the current Cell Browser dataset, which cell type(s) express the gene?**
+
+In the Human Liver dataset, detectable **ATP7B** expression was observed most prominently in the **hepatocyte** cluster. A smaller amount of detectable expression was also observed in **inflammatory macrophages**, while most other cell populations showed little or no detectable expression.
+
+**4. Does the observed cell expression make biological sense based on what you already know about the gene's function or associated disease?**
+
+Yes. The observed ATP7B expression in hepatocytes makes biological sense because the liver is a major organ involved in copper metabolism and is prominently affected in Wilson disease. The ATP7B gene encodes a copper-transporting ATPase involved in maintaining copper homeostasis, making its expression in liver cells biologically relevant. The strong concentration of detectable expression in hepatocytes is therefore consistent with the known importance of the liver in ATP7B-related copper regulation and Wilson disease. However, the Cell Browser dataset used in this activity represents **healthy human liver**, so the observed expression pattern describes normal liver cells rather than Wilson disease cells.
+
+**5. Can this single Cell Browser dataset prove that the gene causes the disease? Explain why or why not.**
+
+No. A single Cell Browser dataset cannot prove that ATP7B causes Wilson disease because it only shows gene-expression patterns in the specific cells and biological conditions represented by that dataset. Gene expression alone does not establish a causal relationship between a gene and a disease. Establishing disease causation requires additional evidence, including genetic variants, clinical observations, functional studies, and other experimental or genetic evidence.
