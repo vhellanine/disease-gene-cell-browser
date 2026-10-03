@@ -140,3 +140,32 @@ The expression plot supports the observation from the cell map that **ATP7B expr
 The screenshot below shows the ATP7B expression distribution in the selected hepatocyte cells compared with the other cells in the Human Liver dataset.
 
 ![Screenshot 4 - ATP7B Expression Violin Plot](Screenshots/04_expression_plot.png)
+
+## 7. Marker Genes
+
+### Cluster Examined
+
+**Cell type/cluster:** Hepatocyte
+
+The **Hepatocyte** cluster was selected because it showed the strongest visible concentration of detectable **ATP7B** expression in the Human Liver dataset. The UCSC Cell Browser provided a marker-gene table for this cluster, which was sorted by z-score.
+
+### Marker Genes Identified
+
+Marker Gene: z-score
+**APOC3:** 183.437
+**APOC1:** 174.111
+**APOA2:** 170.640
+
+The three marker genes recorded from the Hepatocyte cluster were **APOC3, APOC1, and APOA2**. These were the highest-ranked genes visible in the marker-gene table provided by the UCSC Cell Browser.
+
+# ATP7B as a Cell-Type Marker
+
+ATP7B was **not among the three highest-ranked marker genes** displayed for the Hepatocyte cluster. Although ATP7B showed its strongest detectable expression in hepatocytes in this dataset, its expression pattern does not appear to uniquely identify the Hepatocyte cluster in the same way as the listed marker genes.
+
+This demonstrates that a gene can be biologically associated with a disease or cellular function without necessarily serving as a specific cell-type marker. The interpretation is limited to the selected **Human Liver** dataset.
+
+# Screenshot 5 — Hepatocyte Marker Genes
+
+The screenshot below shows the UCSC Cell Browser marker-gene table for the Hepatocyte cluster, including APOC3, APOC1, and APOA2.
+
+![Screenshot 5 - Hepatocyte Marker Genes](screenshots/05_marker_genes.png)
