@@ -63,12 +63,6 @@ The clusters represent groups of cells with similar transcriptomic profiles and 
 - Plasma
 - NK-like
 
-# Screenshot 2 — Cell Map
-
-The screenshot below shows the t-SNE cell map of the Human Liver dataset with the annotated cell-type clusters.
-
-![Human Liver Cell Map](Screenshots/02_cell_map.png)
-
 # 4. Assigned Gene Expression
 
 **a. Assigned gene symbol** 
@@ -90,9 +84,11 @@ Little or no detectable expression is observed across most other cell population
 
 ATP7B expression in the selected Human Liver dataset is low/undetected in most cells, with detectable expression appearing mainly within the hepatocyte cluster. The expression pattern is therefore not widespread across the entire cell map. This observation is based only on the selected healthy Human Liver single-cell dataset and does not indicate that ATP7B is absent from other tissues or cell types.
 
-# Screenshot 3A — ATP7B Gene Expression Map
+# Screenshot 2 — Cell Map
 
-![Screenshot 2 - ATP7B Gene Expression](Screenshots/03A_gene_expression.png)
+The screenshot below shows the t-SNE cell map of the Human Liver dataset with the annotated cell-type clusters.
+
+![Human Liver Cell Map](Screenshots/02_cell_map.png)
 
 # 5. Cell Types and Clusters Expressing ATP7B
 **ATP7B Expression by Cell Type**
