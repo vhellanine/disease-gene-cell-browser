@@ -141,7 +141,7 @@ The screenshot below shows the ATP7B expression distribution in the selected hep
 
 ![Screenshot 4 - ATP7B Expression Violin Plot](Screenshots/04_expression_plot.png)
 
-## 7. Marker Genes
+# 7. Marker Genes
 
 # Cluster Examined
 
@@ -169,3 +169,18 @@ This demonstrates that a gene can be biologically associated with a disease or c
 The screenshot below shows the UCSC Cell Browser marker-gene table for the Hepatocyte cluster, including APOC3, APOC1, and APOA2.
 
 ![Screenshot 5 - Hepatocyte Marker Genes](Screenshots/05_marker_genes.png)
+
+# 8. Disease Gene vs. Marker Gene
+
+**a. Assigned disease gene:** ATP7B
+
+**b. Marker gene:** APOC3
+
+**c. Which gene shows a more cell-type-restricted expression pattern?**  
+**ATP7B** shows a more cell-type-restricted expression pattern in this dataset. Its detectable expression was concentrated mainly in the hepatocyte cluster, while most cells showed no detectable expression.
+
+**d. Which gene appears more broadly expressed?**  
+**APOC3** appears more broadly expressed across the cell populations in the selected Human Liver dataset, although its expression is also prominent in hepatocytes.
+
+**e. What does this comparison teach you about the difference between a disease-associated gene and a cell-type marker gene?**  
+The comparison shows that a **disease-associated gene does not necessarily have to be a cell-type marker**. ATP7B is associated with Wilson disease but showed a relatively restricted expression pattern in this dataset, whereas APOC3, identified as a hepatocyte marker, showed detectable expression across multiple cell populations. Therefore, disease association and cell-type-specific expression are different biological characteristics.
