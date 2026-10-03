@@ -212,3 +212,36 @@ Yes. The observed ATP7B expression in hepatocytes makes biological sense because
 **5. Can this single Cell Browser dataset prove that the gene causes the disease? Explain why or why not.**
 
 No. A single Cell Browser dataset cannot prove that ATP7B causes Wilson disease because it only shows gene-expression patterns in the specific cells and biological conditions represented by that dataset. Gene expression alone does not establish a causal relationship between a gene and a disease. Establishing disease causation requires additional evidence, including genetic variants, clinical observations, functional studies, and other experimental or genetic evidence.
+
+# 10. Part J — Short Reflection
+
+**1. What did the UCSC Cell Browser show you that the UCSC Genome Browser could not?**
+
+The UCSC Cell Browser showed me **where and in which cell types ATP7B is expressed** within the human liver. Unlike the Genome Browser, which mainly shows genomic location, gene structure, and variants, the Cell Browser allowed me to visualize ATP7B expression at the **single-cell level**.
+
+**2. Why can the same gene have different expression levels among different cell types?**
+
+Different cell types have different functions and therefore require different sets and amounts of proteins. Gene expression is regulated according to the specific needs of each cell, so ATP7B can be expressed more strongly in hepatocytes than in other liver cell types.
+
+**3. Why should you be careful when interpreting a gene that shows zero or very low expression in single-cell data?**
+
+Zero or very low expression does not always mean that the gene is completely absent from the cell. It may result from biological differences or technical limitations of single-cell RNA sequencing, such as **dropout**. Therefore, low expression should be interpreted within the context of the dataset and experimental method.
+
+**4. Why is it useful to combine information about genomic location, genetic variants, and cell-specific gene expression?**
+
+Combining these types of information provides a more complete understanding of how a gene may be related to a disease. Genomic location identifies where the gene is found, genetic variants can identify disease-associated changes, and cell-specific expression shows **where the gene is active** and which cell types may be relevant.
+
+**5. What was the most interesting observation you made about your assigned gene?**
+
+The most interesting observation was that **ATP7B expression was most prominent in hepatocytes**, while most other cells showed little or no detectable expression in the Human Liver dataset. This was particularly interesting because ATP7B is associated with Wilson disease, which strongly involves liver function and copper metabolism.
+
+# 11. References and Links
+**UCSC Cell Browser:** [https://cells.ucsc.edu/](https://cells.ucsc.edu/)
+
+- **Selected Cell Browser Dataset:** Human Liver
+- **Cell Browser Dataset ID:** human-liver
+- **Dataset URL:** [https://human-liver.cells.ucsc.edu/](https://human-liver.cells.ucsc.edu/)
+- **NCBI GEO Series:** GSE115469
+- **Publication:** MacParland et al. (2018), *Single cell RNA sequencing of human liver reveals distinct intrahepatic macrophage populations*
+- **PubMed:** [https://pubmed.ncbi.nlm.nih.gov/30348985/](https://pubmed.ncbi.nlm.nih.gov/30348985/)
+- **UCSC Cell Browser Visualization Guide:** [https://cellbrowser.readthedocs.io/en/master/ui/visualization.html](https://cellbrowser.readthedocs.io/en/master/ui/visualization.html)
