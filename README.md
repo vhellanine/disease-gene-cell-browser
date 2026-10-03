@@ -91,7 +91,7 @@ The screenshot below shows the t-SNE cell map of the Human Liver dataset with th
 ![Human Liver Cell Map](Screenshots/02_gene_expression.png)
 
 # 5. Cell Types and Clusters Expressing ATP7B
-**ATP7B Expression by Cell Type**
+# ATP7B Expression by Cell Type
 
 **Strongest visible expression** 
 Hepatocyte
@@ -116,3 +116,27 @@ Overall, ATP7B expression appears **low or undetected in most cells and relative
 The screenshot below shows the ATP7B expression map together with the annotated cell-type clusters. The strongest visible concentration of ATP7B-expressing cells occurs in the hepatocyte population.
 
 ![Screenshot 3 - ATP7B Expression Across Cell Types](Screenshots/03B_cell_types.png)
+
+# 6. Expression Plot
+
+**Selected Cell Population**
+
+The **hepatocyte cluster** was selected because it showed the strongest visible ATP7B expression in the cell-expression map. A total of **3,471 hepatocyte cells** were selected and compared with **4,973 other cells** in the dataset.
+
+**ATP7B Expression Comparison**
+
+The violin plot shows that the selected hepatocyte cells have a **higher ATP7B expression distribution** compared with the other cells. The selected-cell violin extends to higher expression values, whereas the distribution among the other cells is concentrated closer to zero.
+
+**What the Expression Plot Adds**
+
+The violin plot provides information about the **distribution of ATP7B expression values within the selected and comparison groups**. While the UMAP/t-SNE map shows where ATP7B-expressing cells are located, the violin plot makes the difference in expression levels between hepatocytes and the remaining cells more apparent.
+
+# Interpretation
+
+The expression plot supports the observation from the cell map that **ATP7B expression is more prominent in hepatocytes than in the other cell populations** in this Human Liver dataset. This result is based on the selected healthy human liver dataset and does not by itself establish a disease-related difference.
+
+# Screenshot 4 — ATP7B Expression Violin Plot
+
+The screenshot below shows the ATP7B expression distribution in the selected hepatocyte cells compared with the other cells in the Human Liver dataset.
+
+![Screenshot 4 - ATP7B Expression Violin Plot](screenshots/04_expression_plot.png)
