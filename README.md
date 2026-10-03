@@ -143,13 +143,13 @@ The screenshot below shows the ATP7B expression distribution in the selected hep
 
 ## 7. Marker Genes
 
-### Cluster Examined
+# Cluster Examined
 
 **Cell type/cluster:** Hepatocyte
 
 The **Hepatocyte** cluster was selected because it showed the strongest visible concentration of detectable **ATP7B** expression in the Human Liver dataset. The UCSC Cell Browser provided a marker-gene table for this cluster, which was sorted by z-score.
 
-### Marker Genes Identified
+# Marker Genes Identified
 
 Marker Gene: z-score
 **APOC3:** 183.437
@@ -168,4 +168,4 @@ This demonstrates that a gene can be biologically associated with a disease or c
 
 The screenshot below shows the UCSC Cell Browser marker-gene table for the Hepatocyte cluster, including APOC3, APOC1, and APOA2.
 
-![Screenshot 5 - Hepatocyte Marker Genes](screenshots/05_marker_genes.png)
+![Screenshot 5 - Hepatocyte Marker Genes](Screenshots/05_marker_genes.png)
