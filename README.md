@@ -115,7 +115,7 @@ Overall, ATP7B expression appears **low or undetected in most cells and relative
 
 The screenshot below shows the ATP7B expression map together with the annotated cell-type clusters. The strongest visible concentration of ATP7B-expressing cells occurs in the hepatocyte population.
 
-![Screenshot 3 - ATP7B Expression Across Cell Types](Screenshots/03B_cell_types.png)
+![Screenshot 3 - ATP7B Expression Across Cell Types](Screenshots/03_cell_types.png)
 
 # 6. Expression Plot
 
